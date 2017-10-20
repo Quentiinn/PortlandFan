@@ -1,0 +1,14 @@
+/*
+Theme	Name:	rookie	extension
+Theme	URI:	
+Dexcription:	This	is	a	child	theme	of	rookie
+Author:	qcourvoisier
+Author	URI:	
+Template:	rookie
+version:	0.1
+*/
+@import	url("../rookie/style.css");
+
+body.custom-background{
+    background-attachment: fixed!important;
+}
