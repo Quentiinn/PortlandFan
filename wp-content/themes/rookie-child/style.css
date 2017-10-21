@@ -10,5 +10,5 @@ version:	0.1
 @import	url("../rookie/style.css");
 
 body.custom-background{
-    background-attachment: fixed!important;
+    background-attachment: fixed!important; 
 }
