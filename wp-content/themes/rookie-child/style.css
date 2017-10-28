@@ -12,3 +12,15 @@ version:	0.1
 body.custom-background{
     background-attachment: fixed!important; 
 }
+
+.event{
+    background-color: #c81d2a;
+}
+
+.sp-table-caption{
+    border-top : 8px solid #c81d2a;
+}
+
+.main-navigation .nav-menu > li:hover > a{
+    background: #c81d2a;
+}
