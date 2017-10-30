@@ -12,9 +12,16 @@ version:	0.1
 body.custom-background{
     background-attachment: fixed!important; 
 }
+a{
+    color: #c81d2a;
+}
 
 .event{
     background-color: #c81d2a;
+}
+
+.event:hover{
+    border: 2px  solid #2b353e;
 }
 
 .sp-table-caption{
@@ -22,5 +29,32 @@ body.custom-background{
 }
 
 .main-navigation .nav-menu > li:hover > a{
+    background: #c81d2a;
+}
+
+.event > a {
+    color: white;
+    text-decoration: none; 
+}
+
+
+.widget_categories ul li a:hover{
+    color: #c81d2a;
+}
+
+.nav-links .meta-nav{
+    background: #c81d2a;
+}
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"]{
+    background: #c81d2a;    
+}
+
+.main-navigation .search-form .search-submit:hover{
+    background: #c81d2a;
+}
+
+.sp-template-gallery .gallery-item strong{
     background: #c81d2a;
 }
