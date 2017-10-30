@@ -46,7 +46,6 @@ a{
     background: #c81d2a;
 }
 
-
 button, input[type="button"], input[type="reset"], input[type="submit"]{
     background: #c81d2a;    
 }
@@ -56,5 +55,10 @@ button, input[type="button"], input[type="reset"], input[type="submit"]{
 }
 
 .sp-template-gallery .gallery-item strong{
+    background: #c81d2a;
+}
+
+
+.single-sp_player .entry-header .entry-title strong{
     background: #c81d2a;
 }
